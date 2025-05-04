@@ -6,7 +6,7 @@ Claro! Aqui está um `README.md` simples, moderno e direto ao ponto para sua To-
 
 Uma aplicação de lista de tarefas com visual moderno, onde você pode adicionar, remover, marcar como concluída e filtrar suas tarefas.
 
-![to-do-preview](todolist.png) <!-- Você pode tirar um print da sua tela e substituir este link acima com o seu -->
+  ![to-do-preview](todolist.png) <!-- Você pode tirar um print da sua tela e substituir este link acima com o seu -->
 
 ---
 
