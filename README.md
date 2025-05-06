@@ -32,7 +32,7 @@ Uma aplicação de lista de tarefas com visual moderno, onde você pode adiciona
 ### 🎨 Tecnologias usadas
 
 * HTML5
-* CSS3 (com estilo moderno e responsivo)
+* CSS3
 * JavaScript puro (Vanilla JS)
 
 ---
